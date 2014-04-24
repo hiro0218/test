@@ -7,3 +7,11 @@ Commit from Git Bash.
 Second commit is success!
 
 I want to try a lot.
+
+
+...
+
+
+Oh, this file is SJIS...
+Change UTF-8.
+
